@@ -1,0 +1,11 @@
+1. Explain the four pillars of object-oriented programming.
+The four pillars of object oriented programming is 
+1.Abstraction -
+is the concept of wrapping up complex action in simple verbs.
+2.Encapsulation - As much as you can, keep state and logic inaternal. This can mean have as few attr readers as possible, or as few instance vars as possible.
+3.Inheritance-classes can have parent classes.`
+4.Polymorphism-Defined as the condition of occurring in serveral different forms.
+
+
+2. Differentiate between JRE, JVM and JDK.
+The JRE is an abbreviation for java runtime enviroment the JVM is an abbreviation for java virtual machine. the JDK  is a software development kit that develops application in java. Along with  JRE, the JDK also consist of various development tools .
